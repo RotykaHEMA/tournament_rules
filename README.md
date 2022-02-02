@@ -1,2 +1,4 @@
-# tournament_rules
-HEMA tournament rules
+# HEMA Tournament rules
+[CZ rules](cz_rules.md)
+
+EN rules TODO

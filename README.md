@@ -1,4 +1,4 @@
 # HEMA Tournament rules
-[CZ rules](cz_rules.md)
+[CZ rules](cz)
 
 EN rules TODO

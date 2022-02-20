@@ -6,30 +6,27 @@ značce 2 m od středu planše.
 nebo pokud nedostane zápornou odpověď, zahájí hlavní rozhodčí střet pokynem „Vpřed!“.
 4. Šermíři musí čekat bez pohybu na signál „Vpřed!“.
 5. Hlavní rozhodčí zastavuje střet slovem a gestem “Stop!„ nebo „Stát!“, pomocný rozhodčí
-může zastavituje střet pouze v případě hrozícího nebezpečí.
+může zastavit střet pouze v případě hrozícího nebezpečí.
 6. Šermíři jsou povinni na signál “Stop!„ nebo „Stát!“ přerušit šerm a zůstat stát na aktuální
 pozici.
 7. Ofenzivní akce po zastavení střetu se penalizuje žlutou kartou.
 8. Důvody pro zastavení jsou:
-a. platný zásah alespoň jednoho šermíře,
-b. neplatný zásah, který by komplikoval následné posouzení střetu,
-c. opuštění planše oběma nohama; za opuštění planše vlastním pohybem se uděluje
-šermíři žlutá karta; pokud je šermíř fyzicky vytlačen z pole soupeřem, penalizace se neuděluje,
-d. uplynutí časového limitu,
-e. nebezpečí hrozící kvůli poruše na výstroji nebo jiné zdraví ohrožující okolnosti,
-f. nepřehlednost situace, která neumožňuje regulérní posouzení střetu,
-g. vyžádání zastavení šermířem, signalizované zvednutím ruky.
+   1. platný zásah alespoň jednoho šermíře
+   2. neplatný zásah, který by komplikoval následné posouzení střetu
+   3. opuštění planše oběma nohama; za opuštění planše vlastním pohybem se uděluje
+      šermíři žlutá karta; pokud je šermíř fyzicky vytlačen z pole soupeřem, penalizace se neuděluje
+   4. uplynutí časového limitu
+   5. nebezpečí hrozící kvůli poruše na výstroji nebo jiné zdraví ohrožující okolnosti
+   6. nepřehlednost situace, která neumožňuje regulérní posouzení střetu
+   7. vyžádání zastavení šermířem, signalizované zvednutím ruky.
 9. Šermíř je povinen dostavit se na bojiště do 1 minuty od vyhlášení zápasu. V opačném
 případě může rozhodčí udělit žlutou kartu za zdržování.
 10. Zásahová plocha je rozdělena na hluboké a mělké cíle. Mělké jsou nohy od kolen (včetně)
 dolů a paže od loktů (včetně) dále. Hluboké cíle jsou trup, hlava, ruce od lokte nahoru a nohy
 od kolene nahoru.
-11. Čistý zásah na mělký cíl má hodnotu 1 bodu.
-12. Čistý zásah na hluboký cíl má hodnotu 2 bodů.
-13. V případě souzásahu se skóre zvyšuje oběma šermířům podle toho, jaký cíl platně zasáhli.
 
 ### Délka zápasu
-1. Čas zápasu je udaný čistým časem šermu, tj. stopky se spouštějí pokynem „Vvpřed!“
+1. Čas zápasu je udaný čistým časem šermu, tj. stopky se spouštějí pokynem „Vpřed!“
 a zastavují pokynem „Stop!“ nebo „Stát!“.
 2. Stopky, které měří čas mohou být viditelné oběma šermířům nebo je rozhodčí/časoměřič
 povinen informovat šermíře o čase zápasu v návaznosti na jeho zdvořilý dotaz.
@@ -37,17 +34,20 @@ povinen informovat šermíře o čase zápasu v návaznosti na jeho zdvořilý d
 nedosáhne 8 bodů.
 4. Zápasy v eliminační fázi trvají 5 minut čistého času nebo dokud jeden ze šermířů nezíská 11
 bodů.
-5. V případě, že uplyne doba vyměřené pro zápas a výsledek je nerozhodný, je šermíři, který
-v zápase provedl první čistý zásah udělena „výhoda“ a zápas se nastavuje o 1 minutu, jakmile
-je dosaženo platného zásahu, je zápas ukončen. V případě, že v přidané minutě nedojde
-k žádnému zásahu vítězí šermíř s „výhodou“.
-6. Šermíř si může vyžádat oddechový čas kvůli prokazatelným zdravotním důvodům. Pokud ale
+5. V případě, že uplyne doba vyměřené pro zápas a výsledek je nerozhodný, je šermíři, 
+který v zápase provedl první  čistý zásah udělena „výhoda“ a zápas se nastavuje o 1 minutu.
+Zápas se ukončuje pokud:
+   1. je dosaženo čistého zásahu
+   2. dojde k souzásahu, při kterém jsou zasaženy dva nestejné terče. Vyhrává šermíř, který zasáhl hluboký terč.
+   3. v minutě nedojde k žádnému zásahu -> vítězí šermíř s „výhodou“.
+7. Šermíř si může vyžádat oddechový čas kvůli prokazatelným zdravotním důvodům. Pokud ale
 není schopen do 3 minut pokračovat v zápase, obdrží černou kartu.
 
 ## Rozhodování
 Každý zápas řídí a vyhodnocuje jeden hlavní rozhodčí. Počet vedlejších rozhodčích není
 omezen, obvykle jeden pro skupinovou fázi a až tři pro eliminační fázi turnaje. Hlavní ani
 vedlejší rozhodčí nemohou být zároveň videorozhodčími.
+
 ### Hlavní rozhodčí
 1. Řídí průběh skupinové fáze ve své skupině.
 2. Řídí jednotlivé zápasy.

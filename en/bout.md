@@ -1,11 +1,10 @@
 TL;DR
-1. matches in groups up to 8 points
-2. matches in eliminations up to 11 points
-3. There are deep and shallow targets. Deep targets 2p, shallow 1p. 
+1. Matches in groups up to 8 points. Matches in eliminations up to 11 points.
+3. There are deep and shallow targets. Deep targets 2p, shallow 1p. ([read more here](#scoring)) 
    1. Shallow targets are legs from the knees (inclusive) downwards 
    AND arms from the elbows (inclusive) onwards. 
    2. Deep targets are everything else, i.e. torso, head, arms from the elbow up and legs from the knee up.
-   3. Simultaneous hits are counted as regular hits.
+   3. Simultaneous hits are counted as regular hits for both.
 4. fencers can challenge referees decisions in eliminations. ([read more here](#video)) 
 
 ## Start, stop and progress of the match

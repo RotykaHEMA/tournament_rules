@@ -27,9 +27,13 @@
 3. Zápasy ve skupinové fázi trvají 3 minuty čistého času nebo pokud jeden ze šermířů nedosáhne 8 bodů.
 4. Zápasy v eliminační fázi trvají 5 minut čistého času nebo dokud jeden ze šermířů nezíská 11 bodů.
 5. Ke konci zápasu může dojít díky souzásahům k situacím, kdy jeden ze šermířů získá skore 8 resp. 11 bodů nebo vyšší. Tyto situace se řeší následovně:
+
    5.1 V případě, že důsledkem souzásahu je zasažení stejně hodnotných cílů a dojde ke vzniku skóre 8-8 resp. 11-11, nebo 9-9 resp. 12-12, takové skore se ruší a pokračuje se od skóre, kterého bylo dosaženo před takovým střetem, dokud cílové hodnoty alespoň 8 nebo 11 bodů nedosáhne pouze jeden ze soupeřících šermířů. Jako výsledek se vždy zaznamená hodnota 8 resp. 11 bodů.
+   
    5.2 V případě, že dojde k souzásahu, kdy za stavu 6-7 šermíř 1 zasáhne hluboký terč a šermíř 2 zasáhne mělký terč, nebude výsledné skore 8-8, ale 7-7. Tedy méně hodnotný zásah se odečte od hodnotnějšího zásahu.
-   5.3. V případě, že by vítězný šermíř získal posledním zásahem více jak 8 resp. 11 bodů, pro účely hodnocení se vždy použije hodnota 8 resp. 11. V případě, že důsledkem souzásahu dojde k výsledku 8-9, resp. 11-12. Výsledek takového střetu se zaznamená jako 7-8 resp. 10-11, tedy méně hodnotný zásah se odečte od hodnotnějšího zásahu.
+   
+   5.3 V případě, že by vítězný šermíř získal posledním zásahem více jak 8 resp. 11 bodů, pro účely hodnocení se vždy použije hodnota 8 resp. 11. V případě, že důsledkem souzásahu dojde k výsledku 8-9, resp. 11-12. Výsledek takového střetu se zaznamená jako 7-8 resp. 10-11, tedy méně hodnotný zásah se odečte od hodnotnějšího zásahu.
+   
 6. V případě, že uplyne doba vyměřená pro zápas a výsledek je nerozhodný, je šermíři, který v zápase provedl první čistý zásah udělena „výhoda“ a zápas se nastavuje o 1 minutu. Zápas se ukončuje pokud:
    je dosaženo čistého zásahu dvou stejně hodnotných terčů
    dojde k souzásahu, při kterém jsou zasaženy dva nestejné terče. Vyhrává šermíř, který zasáhl hluboký terč.

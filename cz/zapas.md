@@ -78,6 +78,7 @@ Příklad: Zásah šermíře A na hluboký cíl šermíře B, při kterém šerm
 šermíře A je hodnoceno jako 2 body pro šermíře A a 1 bod pro šermíře B. Souzásahem
 se rozumíme situaci, kdy se šermíři vzájemně zasáhnou v tempu, které je možné
 považovat za současné.
+Výjimky z tohoto pravidla jsou popsány v kapitole 7.2, bod 5.
 6. Rozhodčí může přidělit bod za akci jen pokud tato akce začala mezi signály „Vpřed!“ a „Stát!“
 nebo „Stop!“.
 7. Po zastavení střetu hlavní rozhodčí posuzuje a analyzuje akce poslední výměny. Následně

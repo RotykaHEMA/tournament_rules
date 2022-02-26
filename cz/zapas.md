@@ -1,47 +1,42 @@
 ## Zahájení, zastavení a průběh zápasu
 1. První volaný šermíř zaujme místo po pravé ruce hlavního rozhodčího.
-2. Po výzvě hlavního rozhodčího „Na střeh!“ zaujmou oba šermíři základní postavení, každý na
-značce 2 m od středu planše.
-3. Následně se hlavní rozhodčí zeptá otázkou „Připraveni?“ a v případě kladných odpovědí
-nebo pokud nedostane zápornou odpověď, zahájí hlavní rozhodčí střet pokynem „Vpřed!“.
+2. Po výzvě hlavního rozhodčího „Na střeh!“ zaujmou oba šermíři základní postavení, každý na značce 2 m od středu planše.
+3. Následně se hlavní rozhodčí zeptá otázkou „Připraveni?“ a v případě kladných odpovědí nebo pokud nedostane zápornou odpověď, zahájí hlavní rozhodčí střet pokynem „Vpřed!“.
 4. Šermíři musí čekat bez pohybu na signál „Vpřed!“.
-5. Hlavní rozhodčí zastavuje střet slovem a gestem “Stop!„ nebo „Stát!“, pomocný rozhodčí
-může zastavit střet pouze v případě hrozícího nebezpečí.
-6. Šermíři jsou povinni na signál “Stop!„ nebo „Stát!“ přerušit šerm a zůstat stát na aktuální
-pozici.
+5. Hlavní rozhodčí zastavuje střet slovem a gestem „Stát!“, pomocný rozhodčí může zastavuje střet pouze v případě hrozícího nebezpečí.
+6. Šermíři jsou povinni na signál „Stát!“ přerušit šerm a zůstat stát na aktuální pozici. 
 7. Ofenzivní akce po zastavení střetu se penalizuje žlutou kartou.
-8. Důvody pro zastavení jsou:
-   1. platný zásah alespoň jednoho šermíře
-   2. neplatný zásah, který by komplikoval následné posouzení střetu
-   3. opuštění planše oběma nohama; za opuštění planše vlastním pohybem se uděluje
-      šermíři žlutá karta; pokud je šermíř fyzicky vytlačen z pole soupeřem, penalizace se neuděluje
-   4. uplynutí časového limitu
-   5. nebezpečí hrozící kvůli poruše na výstroji nebo jiné zdraví ohrožující okolnosti
-   6. nepřehlednost situace, která neumožňuje regulérní posouzení střetu
-   7. vyžádání zastavení šermířem, signalizované zvednutím ruky.
-9. Šermíř je povinen dostavit se na bojiště do 1 minuty od vyhlášení zápasu. V opačném
-případě může rozhodčí udělit žlutou kartu za zdržování.
-10. Zásahová plocha je rozdělena na hluboké a mělké cíle. Mělké jsou nohy od kolen (včetně)
-dolů a paže od loktů (včetně) dále. Hluboké cíle jsou trup, hlava, ruce od lokte nahoru a nohy
-od kolene nahoru.
+8. Důvody pro zastavení jsou: 
+   a. platný zásah alespoň jednoho šermíře,
+	b. neplatný zásah, který by komplikoval následné posouzení střetu,		
+   c. opuštění planše oběma nohama; za opuštění planše vlastním pohybem se uděluje šermíři žlutá karta; pokud je šermíř fyzicky vytlačen z pole soupeřem, penalizace      se neuděluje, 
+	d. uplynutí časového limitu,
+	e. nebezpečí hrozící kvůli poruše na výstroji nebo jiné zdraví ohrožující okolnosti,
+	f. nepřehlednost situace, která neumožňuje regulérní posouzení střetu,
+	g. vyžádání zastavení šermířem, signalizované zvednutím ruky.
+9. Šermíř je povinen dostavit se na bojiště do 1 minuty od vyhlášení zápasu. V opačném případě může rozhodčí udělit žlutou kartu za zdržování. 
+10. Zásahová plocha je rozdělena na hluboké a mělké cíle. Mělké jsou nohy od kolen (včetně) dolů a paže od loktů (včetně) dále. Hluboké cíle jsou trup, hlava, ruce od lokte nahoru a nohy od kolene nahoru.
+11. Čistý zásah na mělký cíl má hodnotu 1 bodu.
+12. Čistý zásah na hluboký cíl má hodnotu 2 bodů.
+13. V případě souzásahu se skóre zvyšuje oběma šermířům podle toho, jaký cíl platně zasáhli.
+
 
 ### Délka zápasu
-1. Čas zápasu je udaný čistým časem šermu, tj. stopky se spouštějí pokynem „Vpřed!“
-a zastavují pokynem „Stop!“ nebo „Stát!“.
-2. Stopky, které měří čas mohou být viditelné oběma šermířům nebo je rozhodčí/časoměřič
-povinen informovat šermíře o čase zápasu v návaznosti na jeho zdvořilý dotaz.
-3. Zápasy ve skupinové fázi trvají 3 minuty čistého času nebo pokud jeden ze šermířů
-nedosáhne 8 bodů.
-4. Zápasy v eliminační fázi trvají 5 minut čistého času nebo dokud jeden ze šermířů nezíská 11
-bodů.
-5. V případě, že uplyne doba vyměřené pro zápas a výsledek je nerozhodný, je šermíři, 
-který v zápase provedl první  čistý zásah udělena „výhoda“ a zápas se nastavuje o 1 minutu.
-Zápas se ukončuje pokud:
-   1. je dosaženo čistého zásahu
-   2. dojde k souzásahu, při kterém jsou zasaženy dva nestejné terče. Vyhrává šermíř, který zasáhl hluboký terč.
-   3. v minutě nedojde k žádnému zásahu -> vítězí šermíř s „výhodou“.
-7. Šermíř si může vyžádat oddechový čas kvůli prokazatelným zdravotním důvodům. Pokud ale
-není schopen do 3 minut pokračovat v zápase, obdrží černou kartu.
+1. Čas zápasu je udaný čistým časem šermu, tj. stopky se spouštějí pokynem „vpřed“ a zastavují pokynem „stát“.
+2. Stopky, které měří čas mohou být viditelné oběma šermířům nebo je rozhodčí/časoměřič povinen informovat šermíře o čase zápasu v návaznosti na jeho zdvořilý dotaz.
+3. Zápasy ve skupinové fázi trvají 3 minuty čistého času nebo pokud jeden ze šermířů nedosáhne 8 bodů.
+4. Zápasy v eliminační fázi trvají 5 minut čistého času nebo dokud jeden ze šermířů nezíská 11 bodů.
+5. Ke konci zápasu může dojít díky souzásahům k situacím, kdy jeden ze šermířů získá skore 8 resp. 11 bodů nebo vyšší. Tyto situace se řeší následovně:
+   5.1 V případě, že důsledkem souzásahu je zasažení stejně hodnotných cílů a dojde ke vzniku skóre 8-8 resp. 11-11, nebo 9-9 resp. 12-12, takové skore se ruší a pokračuje se od skóre, kterého bylo dosaženo před takovým střetem, dokud cílové hodnoty alespoň 8 nebo 11 bodů nedosáhne pouze jeden ze soupeřících šermířů. Jako výsledek se vždy zaznamená hodnota 8 resp. 11 bodů.
+   5.2 V případě, že dojde k souzásahu, kdy za stavu 6-7 šermíř 1 zasáhne hluboký terč a šermíř 2 zasáhne mělký terč, nebude výsledné skore 8-8, ale 7-7. Tedy méně hodnotný zásah se odečte od hodnotnějšího zásahu.
+   5.3. V případě, že by vítězný šermíř získal posledním zásahem více jak 8 resp. 11 bodů, pro účely hodnocení se vždy použije hodnota 8 resp. 11. V případě, že důsledkem souzásahu dojde k výsledku 8-9, resp. 11-12. Výsledek takového střetu se zaznamená jako 7-8 resp. 10-11, tedy méně hodnotný zásah se odečte od hodnotnějšího zásahu.
+6. V případě, že uplyne doba vyměřená pro zápas a výsledek je nerozhodný, je šermíři, který v zápase provedl první čistý zásah udělena „výhoda“ a zápas se nastavuje o 1 minutu. Zápas se ukončuje pokud:
+   je dosaženo čistého zásahu dvou stejně hodnotných terčů
+   dojde k souzásahu, při kterém jsou zasaženy dva nestejné terče. Vyhrává šermíř, který zasáhl hluboký terč.
+   v nastavované minutě nedojde k žádnému zásahu -> vítězí šermíř s „výhodou“.
+Souzásah na stejně hodnotný terč není důvodem k ukončení zápasu.
+7. Šermíř si může vyžádat oddechový čas kvůli prokazatelným zdravotním důvodům. Pokud ale není schopen do 3 minut pokračovat v zápase, obdrží černou kartu.
+
 
 ## Rozhodování
 Každý zápas řídí a vyhodnocuje jeden hlavní rozhodčí. Počet vedlejších rozhodčích není

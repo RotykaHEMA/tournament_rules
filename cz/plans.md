@@ -1,5 +1,5 @@
 ## Planš
-1. Planš musí poskytovat stejné podmínky pro oba šermíře. To seje týká především osvětlení
+1. Planš musí poskytovat stejné podmínky pro oba šermíře. To se týká především osvětlení
    a povrchu.
 2. Rozměry planše jsou 6 x 9 metrů. Tvar pole musí být výrazně vyznačený plnou čárou a
    nejbližší překážka musí být vzdálena minimálně 1 metr.

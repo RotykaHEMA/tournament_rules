@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T19:40:57.722Z" agent="5.0 (Windows)" etag="WfaGyp0rOrR14XrBQPHd" version="20.2.8" type="github"><diagram id="08YenDplq9UsqYFHCo5K" name="Page-1">7Vpdk5owFP01PNqBQEJ8VLftzvRjOt2HPiNEYYrEYra6++sbNCjhZrtoCa0dHWeEm5jAOTf33hNw/Nlq976M1uknnrDcQW6yc/w7ByEvQMipvm7ydLCEWBmWZZaoTifDQ/bMlNFV1scsYRuto+A8F9laN8a8KFgsNFtUlnyrd1vwXJ91HS0ZMDzEUQ6t37JEpAcrxe7Jfs+yZVrP7LmqZRXVnZVhk0YJ3zZM/lvHn5Wci8PRajdjeQVejcvhf+9eaD1eWMkK0eUP+Ze593NznxepG7sfHjYfc7EdYTXMzyh/VHesrlY81RCU/LFIWDWK6/jTbZoJ9rCO4qp1K0mXtlSscnnmycMFL4RikVSnWZ7PeM7L/VB+hFwXYdWtYV/sP9K+ESX/zhot5J0rP7IF3m596awUbNcwqdt/z/iKifJJdlGtKFRUKF9ERJ1vT8we+6RNVsfKGClvWh7HPgEuDxTmZ+DfO/w63knE6CI24hpTNl/0hCtt4UoNuBITrgG2hGuAXgd2KZGt4Cu5iETGC2kdefQ8XzsGnmheD+v+Hqu2DxqwOsaQVI8strDye3ZCCGjLLeVaR7HRLRMyJ5gYKfg9z92dFeJNh4U7AHB/+Tj57MywM3FtA09jZgZ+TnGAzb7fE/C+7vge5MEUIqxF3jr0DOf1CWY0CUzgUzT3iR2vb4bgYd2cAHwnm80bafnKn1OeOLPAoXfOzHcmdwB4eVdCR1fHrOAFawGsTFGeLSsKYokgk/ZphVEm67mJalhlSVJNY6RTJ7zJaBW3QXVjba1gbakEFCyV2ns1Lq0l0xBQeZ/fmOzGpK9RWZ++kn2sMUlh0KvYm8mZqvAwrYQLLzIhibgxqTM5aiWwoBuVyFqAHQMup+x5zQ7LsdivR3lH7nN1NPWL6B9ltMVfl2q8r4pED7PHsrvBKDblTFuM1pPdGP1TRv8Wg6RDUXmQnfYUpo91t/YDg8L0TKW2rayDoeIBqFxcao+t6ssjoZ1d0IMuOKy+xNAHbehLI+69ycvzcUftYA5oGFReYih/HERyocKjRgL58cjrhtFmHzgnsgNZ7/aA1c3yaLn/fbFiO4wvr/cwhereF+WXSdp2HplzIfjKpif4HdO4tXAH5dI1K1+1l3FRlX0BeUhfxjCaDip9MRRMVyx9h6XSCzQqKemUGG0xSf7/4npsNcGOkK5/8V9WSwQ+O7sReg6h9N/iMzRVTEbtpIH0Aka9yamA6DAZH9gNKqcI3PixWeP1J6aODHd3UQ36Udgpg9iTViHMIRaklVVhdT4Hnk4C3PUcVFeFpjcmrltXmZT0AMLqfE9ovbpg2FcaVGeFCLjCNeus8eW1+flUYvoalYPKrBC+gnLFMmtQJsFjqW77j9aYhHu9/1lVbjXZIv1xsaHiGbYmh3vJNzYvZnMMa6ee2JSnpxeJ922N17H9t78A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-15T19:43:29.296Z" agent="5.0 (Windows)" etag="jDnmVq9hmZgRLOjWG7DG" version="20.5.3" type="github">
+  <diagram id="08YenDplq9UsqYFHCo5K" name="Page-1">
+    <mxGraphModel dx="482" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="270" y="260" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="280" y="280" width="260" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-42" value="" style="group;rotation=-180;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="270" y="280" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-43" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry x="20" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-44" value="PLANŠ" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;fillColor=#f8cecc;strokeColor=#b85450;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry x="30" y="10" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-45" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;fillColor=#d5e8d4;strokeColor=#82b366;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-46" value="Ass. Rozhodčí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-270;fontSize=6;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry x="5" y="48" width="45" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-47" value="Hl. Rozhodčí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-270;fontSize=6;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry x="53" y="53" width="80" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-48" value="Čas + monitor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-270;fontSize=6;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry x="-30" y="43" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-49" value="Bezpečná zóna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=-180;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry x="35" y="100" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-50" value="Bezpečná zóna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=-180;" parent="lPb1vsHlnh0c0KSsLltw-42" vertex="1">
+          <mxGeometry x="35" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-65" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="365" y="340" width="110" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-54" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lPb1vsHlnh0c0KSsLltw-65" vertex="1">
+          <mxGeometry x="15" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-55" value="PLANŠ" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#f8cecc;strokeColor=#b85450;" parent="lPb1vsHlnh0c0KSsLltw-65" vertex="1">
+          <mxGeometry x="25" y="10" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-56" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Čas + monitor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;" parent="lPb1vsHlnh0c0KSsLltw-65" vertex="1">
+          <mxGeometry x="30" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-57" value="Ass. Rozhodčí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-180;fontSize=6;" parent="lPb1vsHlnh0c0KSsLltw-65" vertex="1">
+          <mxGeometry x="32" y="15" width="45" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-58" value="Hl. Rozhodčí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-180;fontSize=6;" parent="lPb1vsHlnh0c0KSsLltw-65" vertex="1">
+          <mxGeometry x="14" y="86" width="80" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-60" value="Bezpečná zóna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=-90;" parent="lPb1vsHlnh0c0KSsLltw-65" vertex="1">
+          <mxGeometry x="-20" y="50" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-61" value="Bezpečná zóna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=-90;" parent="lPb1vsHlnh0c0KSsLltw-65" vertex="1">
+          <mxGeometry x="80" y="50" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-76" value="" style="group;rotation=90;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="460" y="287.5" width="110" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-69" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lPb1vsHlnh0c0KSsLltw-76" vertex="1">
+          <mxGeometry x="8" y="-7" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-70" value="PLANŠ" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="lPb1vsHlnh0c0KSsLltw-76" vertex="1">
+          <mxGeometry x="18" y="3" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-71" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Čas + monitor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=bottom;" parent="lPb1vsHlnh0c0KSsLltw-76" vertex="1">
+          <mxGeometry x="70" y="40" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-72" value="Ass. Rozhodčí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=6;" parent="lPb1vsHlnh0c0KSsLltw-76" vertex="1">
+          <mxGeometry x="58" y="40" width="45" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-73" value="Hl. Rozhodčí" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=6;" parent="lPb1vsHlnh0c0KSsLltw-76" vertex="1">
+          <mxGeometry x="-30" y="45" width="80" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-74" value="Bezpečná zóna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=0;" parent="lPb1vsHlnh0c0KSsLltw-76" vertex="1">
+          <mxGeometry x="23" y="-7" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb1vsHlnh0c0KSsLltw-75" value="Bezpečná zóna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;rotation=0;" parent="lPb1vsHlnh0c0KSsLltw-76" vertex="1">
+          <mxGeometry x="23" y="93" width="50" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
